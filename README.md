@@ -1,4 +1,4 @@
-# corona
+# Corona Visualisation
 Save the file hello.html in templates folder on the directory where the hello.py is saved.
 # Run the following commands.
 	$ export FLASK_APP=hello.py
